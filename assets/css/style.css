@@ -1,0 +1,67 @@
+
+
+#header{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+}
+
+body{
+	background-image:url("../images/light.jpg");
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: arial;
+	color: white;
+}
+
+#bandButtons{
+	float: left;
+	width: 1050px
+}
+
+form{
+	float: left;
+	margin-bottom: 50px;
+}
+
+input{
+	width: 250px;
+}
+
+#input{
+	height: 23px;
+}
+
+/*submit button*/
+#submit{
+	background: #ECECEC;
+	margin-top: 10px;
+	width: 100px;
+	padding: 10px;
+	background-color: #F7CA18;
+	border: none;
+	border-radius: 8px;
+	font-size: 14px;
+}
+
+/*div with gifs*/
+#gif{
+	clear: both;
+}
+
+img{
+	margin: 10px;
+}
+
+/*div with buttons*/
+button{
+	margin: 5px;
+	padding: 10px;
+	background-color: #ffe978;
+	border: none;
+	border-radius: 8px;
+	font-size: 14px
+}
